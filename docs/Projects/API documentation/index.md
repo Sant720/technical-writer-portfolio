@@ -1,5 +1,5 @@
 ---
-title: api-documentation
+title: API documentation
 parent: Projects
 nav_order: 1
 ---
