@@ -8,8 +8,8 @@ nav_order: 1
 
 My name is Santiago Bolivar. I am a Technical Writer. I will include examples of my work in this site. 
 
-[LinkedIn]
-[GitHub]
+- [LinkedIn]
+- [GitHub]
 
 ----
 
