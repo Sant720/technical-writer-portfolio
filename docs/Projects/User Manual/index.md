@@ -1,5 +1,6 @@
 ---
 title: User Manual
+parent: Projects
 nav_order: 4
 ---
 
