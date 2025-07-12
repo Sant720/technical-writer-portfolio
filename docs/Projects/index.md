@@ -3,6 +3,6 @@ title: Projects
 nav_order: 2
 ---
 
-#Projects
+# Projects
 
 Here I will list my portfolio projects. 
