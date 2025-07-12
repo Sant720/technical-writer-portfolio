@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Santiago Bolivar Portfolio
+# Technical Writer Portfolio
 
 My name is Santiago Bolivar. I am a Technical Writer. I will include examples of my work in this site. 
 
