@@ -4,7 +4,39 @@ theme: just-the-docs
 
 url: https://sant720.github.io/technical-writer-portfolio/
 
+defaults:
+  - scope:
+      path: "docs"     # Target only files inside the /docs folder
+      type: "pages"    # Apply to content pages (Markdown/HTML)
+    values:
+      layout: "default"  # Automatically apply this layout
+
+
 color_scheme: dark
 
-aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Aux links for the upper right navigation
+aux_links:
+  "Contact me":
+    - "https://www.linkedin.com/in/santibolivar/"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Callouts 
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
