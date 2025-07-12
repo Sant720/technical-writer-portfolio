@@ -1,6 +1,6 @@
 ---
-title: test
-parent: API documentation
+title: Test
+parent: api-documentation
 nav_order: 2
 ---
 
