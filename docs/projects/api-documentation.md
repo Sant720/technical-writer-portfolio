@@ -1,8 +1,6 @@
 --- 
-
-Title: API Documentation
-Parent: projects
-
+title: API Documentation
+parent: projects
 ---
 
 # API Documentation
