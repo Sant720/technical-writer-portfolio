@@ -1,8 +1,6 @@
 ---
-
-Title: User Manual
-Parent: projects
-
+title: User Manual
+parent: Projects
 ---
 
 # User Manual
