@@ -1,6 +1,6 @@
 --- 
 title: API Documentation
-parent: projects
+parent: Projects
 ---
 
 # API Documentation
