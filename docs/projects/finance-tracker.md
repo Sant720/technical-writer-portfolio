@@ -1,8 +1,6 @@
 ---
-
 Title: Finance tracker
-Parent: projects
-
+Parent: Projects
 ---
 
 # Finance tracker
