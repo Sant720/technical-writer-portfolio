@@ -1,6 +1,6 @@
 ---
-Title: Finance tracker
-Parent: Projects
+title: Finance tracker
+parent: Projects
 ---
 
 # Finance tracker
